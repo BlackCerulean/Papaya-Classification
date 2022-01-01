@@ -1,5 +1,8 @@
 ## Papaya-Classification
    This project is created as part of CSC340 Artificial Intelligence course project
+   
+## Model
+   https://drive.google.com/drive/folders/10FiEsY7y6yIh5YfPwJUG26Rlf5IMPF9o?usp=sharing
 
 ## License
    CSC340 Artificial Intelligence <br>
